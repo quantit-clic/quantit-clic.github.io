@@ -102,7 +102,7 @@ when information about number is provided. </p></div>
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 150px; margin-right: auto;" src="images/dogscats.jpg"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; bottom: 90px; height: 180px; margin-right: auto;" src="images/dogscats.jpg"/></a>
     <a href="">
     <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 300px; margin-left: auto;" src="images/diagram4.png"/></a>
     </p>
