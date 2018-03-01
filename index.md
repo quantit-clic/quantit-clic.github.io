@@ -3,8 +3,11 @@ layout: default
 description: ''
 ---
 
-## Intro
+## Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
 <div style="text-align: justify">
-<p>QuantIT-Clic: Quantities in Images and Texts at Clic Lab</p>
-<p>page under construction</p>
+<p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
+<p>Abstract. The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p>
+
+
+
