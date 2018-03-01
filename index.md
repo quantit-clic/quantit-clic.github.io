@@ -77,9 +77,7 @@ queries, which we hope will foster further research in this area.</p></div>
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 280px; margin-right: auto;" src="images/COCO-1.jpg"/></a>
-    <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: 0px; height: 280px; margin-left: auto;" src="images/ImageNet-1.jpg"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 360px; margin-right: auto;" src="images/COCO-1.jpg"/></a>
     </p>
 </div>
 
@@ -102,7 +100,7 @@ when information about number is provided. </p></div>
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; bottom: 90px; height: 240px; margin-right: auto;" src="images/dogscats.jpg"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; margin-bottom: 50px; height: 200px; margin-right: auto;" src="images/dogscats.jpg"/></a>
     <a href="">
     <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 300px; margin-left: auto;" src="images/diagram4.png"/></a>
     </p>
