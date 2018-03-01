@@ -42,14 +42,23 @@ description: ''
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
-<p>Abstract. The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p></div>
+<p>The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p></div>
+
+<div id="proj-pic" style="text-align:center;">
+    <p>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 120px; margin-left: auto;" src="images/prova.png"/></a>
+    </p>
+    
+</div>
+
 
 
 ## Learning Quantification from Images: A Structured Neural Architecture
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</p>
-<p>Abstract. Major advances have recently been made in merging language and vision representations.
+<p>Major advances have recently been made in merging language and vision representations.
 Most tasks considered so far have confined themselves to the processing of objects and
 lexicalised relations amongst objects (content words). We know, however, that humans
 (even pre-school children) can abstract over raw multimodal data to perform certain types
@@ -70,7 +79,7 @@ queries, which we hope will foster further research in this area.</p></div>
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Marelli, M., Bernardi, R.</p>
-<p>Abstract. People can refer to quantities in a visual scene
+<p>People can refer to quantities in a visual scene
 by using either exact cardinals (e.g. one, two,
 three) or natural language quantifiers (e.g. few,
 most, all). In humans, these two processes
@@ -85,7 +94,7 @@ when information about number is provided. </p></div>
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</p>
-<p>Abstract. In this paper, we investigate whether a
+<p>In this paper, we investigate whether a
 neural network model can learn the meaning of natural language quantifiers (no,
 some and all) from their use in visual contexts. We show that memory networks perform well in this task, and that explicit
 counting is not necessary to the system’s
