@@ -11,26 +11,26 @@ description: ''
         <img class='im-speaker-pic' src='images/sandro.jpg' alt='sandro'>
         </td>
         <td>
-        <img class='im-speaker-pic' src='images/sandro.jpg' alt='ionut'>
+        <img class='im-speaker-pic' src='images/ionut.jpg' alt='ionut'>
         </td>
         <td>
-        <img class='im-speaker-pic' src='images/sandro.jpg' alt='aurelie'>
+        <img class='im-speaker-pic' src='images/aurelie.jpg' alt='aurelie'>
         </td>
         <td>
-        <img class='im-speaker-pic' src='images/sandro.jpg' alt='raffa'>
+        <img class='im-speaker-pic' src='images/raffa.jpg' alt='raffa'>
         </td>
     </tr>
 
     <tr>
-        <td><a href=''>Sandro Pezzelle</a> <br> CIMeC, University of Trento </td>
+        <td><a href='http://sandropezzelle.github.io/'>Sandro Pezzelle</a> <br> CIMeC, University of Trento </td>
 
         <td><a href=''>Ionut-Teodor Sorodoc</a> <br>
         Universitat Pompeu Fabra </td>
 
-        <td><a href=''>Aurelie Herbelot</a> <br>
+        <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
         tba </td>
 
-        <td> <a href=''>Raffaella Bernardi</a> <br>
+        <td> <a href='http://disi.unitn.it/~bernardi/'>Raffaella Bernardi</a> <br>
         CIMeC, DISI, University of Trento</td>
     </tr>
 </table>
