@@ -7,7 +7,7 @@ description: ''
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
-<p>Abstract. The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p>
+<p>Abstract. The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p></div>
 
 
 ## Learning Quantification from Images: A Structured Neural Architecture
@@ -28,7 +28,7 @@ given an image and a query expressed by an object-property pair, the system must
 a quantifier expressing which proportions of the queried object have the queried property.
 Our contributions are twofold. First, we show that the best performance on this task involves coupling state-of-the-art attention mechanisms with a network architecture mirroring the logical structure assigned to quantifiers by classic linguistic formalisation. Second,
 we introduce a new balanced dataset of image scenarios associated with quantification
-queries, which we hope will foster further research in this area.</p>
+queries, which we hope will foster further research in this area.</p></div>
 
 
 ## Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
@@ -43,7 +43,7 @@ underlie fairly different cognitive and neural
 mechanisms. Inspired by this evidence, the
 present study proposes two models for learning the objective meaning of cardinals and
 quantifiers from visual scenes containing multiple objects. We show that a model capitalizing on a ‘fuzzy’ measure of similarity is effective for learning quantifiers, whereas the learning of exact cardinals is better accomplished
-when information about number is provided. </p>
+when information about number is provided. </p></div>
 
 
 ## "Look, Some Green Circles!": Learning to Quantify from Images
@@ -55,5 +55,5 @@ neural network model can learn the meaning of natural language quantifiers (no,
 some and all) from their use in visual contexts. We show that memory networks perform well in this task, and that explicit
 counting is not necessary to the system’s
 performance, supporting psycholinguistic
-evidence on the acquisition of quantifiers. </p>
+evidence on the acquisition of quantifiers. </p></div>
 
