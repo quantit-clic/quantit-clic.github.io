@@ -77,9 +77,9 @@ queries, which we hope will foster further research in this area.</p></div>
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 360px; margin-right: auto;" src="images/COCO.jpg"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 240px; margin-right: auto;" src="images/COCO.jpg"/></a>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: 0px; height: 360px; margin-left: auto;" src="images/ImageNet.jpg"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: 0px; height: 240px; margin-left: auto;" src="images/ImageNet.jpg"/></a>
     </p>
 </div>
 
@@ -121,7 +121,7 @@ evidence on the acquisition of quantifiers. </p></div>
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 360px; margin-left: auto;" src="images/diagram-dots.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 360px; margin-left: auto;" src="images/diagram-dots.jpg"/></a>
     </p>
 
 </div>
