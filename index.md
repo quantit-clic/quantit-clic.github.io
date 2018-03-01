@@ -3,6 +3,41 @@ layout: default
 description: ''
 ---
 
+## Q-Team
+
+<table class='organizer-pics-four'>
+    <tr>
+        <td>
+        <img class='im-speaker-pic' src='images/sandro.jpg' alt='sandro'>
+        </td>
+        <td>
+        <img class='im-speaker-pic' src='images/sandro.jpg' alt='ionut'>
+        </td>
+        <td>
+        <img class='im-speaker-pic' src='images/sandro.jpg' alt='aurelie'>
+        </td>
+        <td>
+        <img class='im-speaker-pic' src='images/sandro.jpg' alt='raffa'>
+        </td>
+    </tr>
+
+    <tr>
+        <td><a href=''>Sandro Pezzelle</a> <br> CIMeC, University of Trento </td>
+
+        <td><a href=''>Ionut-Teodor Sorodoc</a> <br>
+        Universitat Pompeu Fabra </td>
+
+        <td><a href=''>Aurelie Herbelot</a> <br>
+        tba </td>
+
+        <td> <a href=''>Raffaella Bernardi</a> <br>
+        CIMeC, DISI, University of Trento</td>
+    </tr>
+</table>
+
+
+
+
 ## Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
 <div style="text-align: justify">
