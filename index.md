@@ -74,6 +74,15 @@ Our contributions are twofold. First, we show that the best performance on this 
 we introduce a new balanced dataset of image scenarios associated with quantification
 queries, which we hope will foster further research in this area.</p></div>
 
+<div id="proj-pic" style="text-align:center;">
+    <p>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: auto; margin-bottom: 7px; height: 480px; margin-right: 0px;" src="images/COCO.pdf"/></a>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: 360px;" src="images/ImageNet.pdf"/></a>
+    </p>
+</div>
+
 
 ## Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 
