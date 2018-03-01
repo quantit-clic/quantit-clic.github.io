@@ -47,7 +47,7 @@ description: ''
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 120px; margin-left: auto;" src="images/prova.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/prova.png"/></a>
     </p>
     
 </div>
