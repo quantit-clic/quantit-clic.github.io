@@ -77,9 +77,9 @@ queries, which we hope will foster further research in this area.</p></div>
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: auto; margin-bottom: 7px; height: 480px; margin-right: 0px;" src="images/COCO.pdf"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 240px; margin-right: auto;" src="images/COCO.pdf"/></a>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: 360px;" src="images/ImageNet.pdf"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: 0px; height: 240px; margin-left: auto;" src="images/ImageNet.pdf"/></a>
     </p>
 </div>
 
@@ -98,6 +98,14 @@ present study proposes two models for learning the objective meaning of cardinal
 quantifiers from visual scenes containing multiple objects. We show that a model capitalizing on a ‘fuzzy’ measure of similarity is effective for learning quantifiers, whereas the learning of exact cardinals is better accomplished
 when information about number is provided. </p></div>
 
+
+<div id="proj-pic" style="text-align:center;">
+    <p>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 360px; margin-left: auto;" src="images/diagram4.png"/></a>
+    </p>
+
+</div>
 
 ## "Look, Some Green Circles!": Learning to Quantify from Images
 
