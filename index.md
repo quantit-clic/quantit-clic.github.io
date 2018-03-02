@@ -3,7 +3,7 @@ layout: default
 description: ''
 ---
 
-## Q-Team
+# Q-Team
 
 <table class='organizer-pics-four'>
     <tr>
@@ -28,7 +28,7 @@ description: ''
         Universitat Pompeu Fabra </td>
 
         <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
-        tba </td>
+        Universitat Pompeu Fabra </td>
 
         <td> <a href='http://disi.unitn.it/~bernardi/'>Raffaella Bernardi</a> <br>
         CIMeC, DISI, University of Trento</td>
@@ -38,9 +38,9 @@ description: ''
 
 
 
-# Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
+# Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision [pdf]
 
-## NAACL-HLT 2018
+## NAACL-HLT 2018 [Oral Presentation] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
@@ -56,7 +56,9 @@ description: ''
 
 
 
-## Learning Quantification from Images: A Structured Neural Architecture
+# Learning Quantification from Images: A Structured Neural Architecture [pdf]
+
+## Journal Natural Language Engineering 2018 [Data] [Code]
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</p>
@@ -84,7 +86,9 @@ queries, which we hope will foster further research in this area.</p></div>
 </div>
 
 
-## Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
+# Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision [pdf]
+
+## EACL 2017 [Poster] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Marelli, M., Bernardi, R.</p>
@@ -98,6 +102,7 @@ present study proposes two models for learning the objective meaning of cardinal
 quantifiers from visual scenes containing multiple objects. We show that a model capitalizing on a ‘fuzzy’ measure of similarity is effective for learning quantifiers, whereas the learning of exact cardinals is better accomplished
 when information about number is provided. </p></div>
 
+<br>
 
 <div id="proj-pic" style="text-align:center;">
     <p>
@@ -109,7 +114,30 @@ when information about number is provided. </p></div>
 
 </div>
 
-## "Look, Some Green Circles!": Learning to Quantify from Images
+<br>
+
+<div style="text-align: justify">
+<br>
+<code>
+@InProceedings{pezzelle2017,<br>
+&nbsp;&nbsp;   author    = {Pezzelle, Sandro  and  Marelli, Marco  and  Bernardi, Raffaella},
+&nbsp;&nbsp;   title     = {Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision},
+&nbsp;&nbsp;   booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},
+&nbsp;&nbsp;   month     = {April},
+&nbsp;&nbsp;   year      = {2017},
+&nbsp;&nbsp;   address   = {Valencia, Spain},
+&nbsp;&nbsp;   publisher = {Association for Computational Linguistics},
+&nbsp;&nbsp;   pages     = {337--342}<br>
+}
+</code></p>
+
+
+
+
+
+# "Look, Some Green Circles!": Learning to Quantify from Images [pdf]
+
+## Workshop on Vision and Language 2016 (@ACL) [Poster] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</p>
