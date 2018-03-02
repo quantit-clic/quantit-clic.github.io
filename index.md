@@ -38,9 +38,11 @@ description: ''
 
 
 
-# Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision [pdf]
+# Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
-## NAACL-HLT 2018 [Oral Presentation] [Data] [Code]
+## NAACL-HLT 2018 [Presentation]
+
+## [pdf] [bib] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
@@ -56,9 +58,11 @@ description: ''
 
 
 
-# Learning Quantification from Images: A Structured Neural Architecture [pdf]
+# Learning Quantification from Images: A Structured Neural Architecture
 
-## Journal Natural Language Engineering 2018 [Data] [Code]
+## Journal Natural Language Engineering 2018
+
+## [pdf] [bib] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</p>
@@ -86,9 +90,11 @@ queries, which we hope will foster further research in this area.</p></div>
 </div>
 
 
-# Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision [pdf]
+# Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 
-## EACL 2017 [Poster] [Data] [Code]
+## EACL 2017 [Poster]
+
+## [pdf] [bib] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Marelli, M., Bernardi, R.</p>
@@ -120,24 +126,26 @@ when information about number is provided. </p></div>
 <br>
 <code>
 @InProceedings{pezzelle2017,<br>
-&nbsp;&nbsp;   author    = {Pezzelle, Sandro  and  Marelli, Marco  and  Bernardi, Raffaella},
-&nbsp;&nbsp;   title     = {Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision},
-&nbsp;&nbsp;   booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},
-&nbsp;&nbsp;   month     = {April},
-&nbsp;&nbsp;   year      = {2017},
-&nbsp;&nbsp;   address   = {Valencia, Spain},
-&nbsp;&nbsp;   publisher = {Association for Computational Linguistics},
-&nbsp;&nbsp;   pages     = {337--342}<br>
+&nbsp;&nbsp;author    = {Pezzelle, Sandro  and  Marelli, Marco  and  Bernardi, Raffaella},<br>
+&nbsp;&nbsp;title     = {Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision},<br>
+&nbsp;&nbsp;booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},<br>
+&nbsp;&nbsp;month     = {April},<br>
+&nbsp;&nbsp;year      = {2017},<br>
+&nbsp;&nbsp;address   = {Valencia, Spain},<br>
+&nbsp;&nbsp;publisher = {Association for Computational Linguistics},<br>
+&nbsp;&nbsp;pages     = {337--342}<br>
 }
 </code></p>
+</div>
 
 
 
 
+# "Look, Some Green Circles!": Learning to Quantify from Images
 
-# "Look, Some Green Circles!": Learning to Quantify from Images [pdf]
+## Workshop on Vision and Language 2016 (@ACL) [Poster]
 
-## Workshop on Vision and Language 2016 (@ACL) [Poster] [Data] [Code]
+## [pdf] [bib] [Data] [Code]
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</p>
