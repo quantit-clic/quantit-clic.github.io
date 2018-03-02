@@ -41,7 +41,7 @@ description: ''
 
 # Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
-##<em>NAACL-HLT 2018</em><br>[pdf] [bib] [data] [code] [slides]
+## <em>NAACL-HLT 2018</em><br>[pdf] [bib] [data] [code] [slides]
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Sorodoc, I., Bernardi, R.</b></p>
@@ -63,7 +63,7 @@ description: ''
 
 # Learning Quantification from Images: A Structured Neural Architecture
 
-##<em>Journal Natural Language Engineering 2018</em><br>[pdf] [bib] [data] [code]
+## <em>Journal Natural Language Engineering 2018</em><br>[pdf] [bib] [data] [code]
 
 <div style="text-align: justify">
 <p><b>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</b></p>
@@ -99,7 +99,7 @@ queries, which we hope will foster further research in this area.</p></div>
 
 # Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 
-##<em>EACL 2017</em><br>[pdf] [bib] [data] [code] [poster]
+## <em>EACL 2017</em><br>[pdf] [bib] [data] [code] [poster]
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Marelli, M., Bernardi, R.</b></p>
@@ -149,7 +149,7 @@ when information about number is provided. </p></div>
 
 # "Look, Some Green Circles!": Learning to Quantify from Images
 
-<em>ACL Workshop on Vision and Language 2016</em><br>[pdf] [bib] [data] [code] [poster]
+## <em>ACL Workshop on Vision and Language 2016</em><br>[pdf] [bib] [data] [code] [poster]
 
 <div style="text-align: justify">
 <p><b>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</b></p>
