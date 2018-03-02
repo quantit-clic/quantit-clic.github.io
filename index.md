@@ -3,7 +3,7 @@ layout: default
 description: ''
 ---
 
-# Q-Team
+# Team
 
 <table class='organizer-pics-four'>
     <tr>
@@ -39,12 +39,12 @@ description: ''
 <br>
 <br>
 
-# Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision<br><em>NAACL-HLT 2018</em>
+# Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
-## [pdf] [bib] [data] [code] [slides]
+##<em>NAACL-HLT 2018</em><br>[pdf] [bib] [data] [code] [slides]
 
 <div style="text-align: justify">
-<p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
+<p><b>Pezzelle, S., Sorodoc, I., Bernardi, R.</b></p>
 <p>The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p></div>
 
 <br>
@@ -61,12 +61,12 @@ description: ''
 <br>
 <br>
 
-# Learning Quantification from Images: A Structured Neural Architecture<br><em>Journal Natural Language Engineering 2018</em>
+# Learning Quantification from Images: A Structured Neural Architecture
 
-## [pdf] [bib] [data] [code]
+##<em>Journal Natural Language Engineering 2018</em><br>[pdf] [bib] [data] [code]
 
 <div style="text-align: justify">
-<p>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</p>
+<p><b>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</b></p>
 <p>Major advances have recently been made in merging language and vision representations.
 Most tasks considered so far have confined themselves to the processing of objects and
 lexicalised relations amongst objects (content words). We know, however, that humans
@@ -97,12 +97,12 @@ queries, which we hope will foster further research in this area.</p></div>
 <br>
 
 
-# Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision<br><em>EACL 2017</em>
+# Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 
-## [pdf] [bib] [data] [code] [poster]
+##<em>EACL 2017</em><br>[pdf] [bib] [data] [code] [poster]
 
 <div style="text-align: justify">
-<p>Pezzelle, S., Marelli, M., Bernardi, R.</p>
+<p><b>Pezzelle, S., Marelli, M., Bernardi, R.</b></p>
 <p>People can refer to quantities in a visual scene
 by using either exact cardinals (e.g. one, two,
 three) or natural language quantifiers (e.g. few,
@@ -147,12 +147,12 @@ when information about number is provided. </p></div>
 <br>
 
 
-# "Look, Some Green Circles!": Learning to Quantify from Images<br><em>ACL Workshop on Vision and Language 2016</em>
+# "Look, Some Green Circles!": Learning to Quantify from Images
 
-## [pdf] [bib] [data] [code] [poster]
+<em>ACL Workshop on Vision and Language 2016</em><br>[pdf] [bib] [data] [code] [poster]
 
 <div style="text-align: justify">
-<p>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</p>
+<p><b>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</b></p>
 <p>In this paper, we investigate whether a
 neural network model can learn the meaning of natural language quantifiers (no,
 some and all) from their use in visual contexts. We show that memory networks perform well in this task, and that explicit
