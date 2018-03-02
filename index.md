@@ -35,18 +35,21 @@ description: ''
     </tr>
 </table>
 
-
-
+<br>
+<br>
+<br>
 
 # Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
 ## NAACL-HLT 2018 [Presentation]
 
-## [pdf] [bib] [Data] [Code]
+## [pdf] [bib] [data] [code]
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Sorodoc, I., Bernardi, R.</p>
 <p>The present work investigates whether different quantification mechanisms (set comparison, vague quantification, and proportional estimation) can be jointly learned from visual scenes by a multi-task computational model. The motivation is that, in humans, these processes underlie the same cognitive, non-symbolic ability, which allows an automatic estimation and comparison of set magnitudes. We show that when information about lower-complexity tasks is available, the higher-level proportional task becomes more accurate than when performed in isolation. Moreover, the multi-task model is able to generalize to unseen combinations of target/non-target objects. Consistently with behavioral evidence showing the interference of absolute number in the proportional task, the multi-task model no longer works when asked to provide the number of target objects in the scene.</p></div>
+
+<br>
 
 <div id="proj-pic" style="text-align:center;">
     <p>
@@ -56,13 +59,15 @@ description: ''
     
 </div>
 
-
+<br>
+<br>
+<br>
 
 # Learning Quantification from Images: A Structured Neural Architecture
 
 ## Journal Natural Language Engineering 2018
 
-## [pdf] [bib] [Data] [Code]
+## [pdf] [bib] [data] [code]
 
 <div style="text-align: justify">
 <p>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</p>
@@ -82,6 +87,8 @@ Our contributions are twofold. First, we show that the best performance on this 
 we introduce a new balanced dataset of image scenarios associated with quantification
 queries, which we hope will foster further research in this area.</p></div>
 
+<br>
+
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
@@ -89,12 +96,16 @@ queries, which we hope will foster further research in this area.</p></div>
     </p>
 </div>
 
+<br>
+<br>
+<br>
+
 
 # Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 
 ## EACL 2017 [Poster]
 
-## [pdf] [bib] [Data] [Code]
+## [pdf] [bib] [data] [code]
 
 <div style="text-align: justify">
 <p>Pezzelle, S., Marelli, M., Bernardi, R.</p>
@@ -123,7 +134,6 @@ when information about number is provided. </p></div>
 <br>
 
 <div style="text-align: justify">
-<br>
 <code>
 @InProceedings{pezzelle2017,<br>
 &nbsp;&nbsp;author    = {Pezzelle, Sandro  and  Marelli, Marco  and  Bernardi, Raffaella},<br>
@@ -135,10 +145,12 @@ when information about number is provided. </p></div>
 &nbsp;&nbsp;publisher = {Association for Computational Linguistics},<br>
 &nbsp;&nbsp;pages     = {337--342}<br>
 }
-</code></p>
+</code>
 </div>
 
-
+<br>
+<br>
+<br>
 
 
 # "Look, Some Green Circles!": Learning to Quantify from Images
@@ -156,6 +168,8 @@ counting is not necessary to the system’s
 performance, supporting psycholinguistic
 evidence on the acquisition of quantifiers. </p></div>
 
+<br>
+
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
@@ -164,3 +178,20 @@ evidence on the acquisition of quantifiers. </p></div>
 
 </div>
 
+<br>
+
+<div style="text-align: justify">
+<code>
+@inproceedings{sorodoc2016look,<br>
+&nbsp;&nbsp;title={“Look, some green circles!”: Learning to quantify from images},<br>
+&nbsp;&nbsp;author={Sorodoc, Ionut and Lazaridou, Angeliki and Boleda, Gemma and Herbelot, Aur{\'e}lie and Pezzelle, Sandro and Bernardi, Raffaella},<br>
+&nbsp;&nbsp;booktitle={Proceedings of the 5th Workshop on Vision and Language},<br>
+&nbsp;&nbsp;pages={75--79},<br>
+&nbsp;&nbsp;year={2016}<br>
+}
+</code>
+</div>
+
+<br>
+<br>
+<br>
