@@ -23,7 +23,7 @@ description: ''
     <tr>
         <td><a href='http://sandropezzelle.github.io/'>Sandro Pezzelle</a> <br> CIMeC, University of Trento </td>
 
-        <td><a href=''>Ionut-Teodor Sorodoc</a> <br>
+        <td><a href='https://www.upf.edu/web/amore/entry/-/-/153506/adscripcion/ionut-teodor-sorodoc'>Ionut-Teodor Sorodoc</a> <br>
         Universitat Pompeu Fabra </td>
 
         <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
@@ -62,7 +62,7 @@ description: ''
 
 # Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
-## <em>NAACL-HLT 2018</em><br><br>[pdf] [bib] [data] [code] [slides]
+## <em>NAACL-HLT 2018</em><br><br>[pdf] [bib] [data] [code] [slides] [arxiv]
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Sorodoc, I., Bernardi, R.</b></p>
@@ -84,7 +84,7 @@ description: ''
 
 # Learning Quantification from Images: A Structured Neural Architecture
 
-## <em>Journal Natural Language Engineering 2018</em><br><br>[pdf] [bib] [data] [code]
+## <em>Journal Natural Language Engineering 2018</em><br><br>[pdf] [bib] [data] [code] <a href="https://arxiv.org/pdf/1704.02923.pdf" target="_blank">[arxiv]</a>
 
 <div style="text-align: justify">
 <p><b>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</b></p>
@@ -120,7 +120,7 @@ queries, which we hope will foster further research in this area.</p></div>
 
 # Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 
-## <em>EACL 2017</em><br><br>[pdf] [bib] [data] [code] [poster]
+## <em>EACL 2017</em><br><br><a href="http://aclweb.org/anthology/E17-2054" target="_blank">[pdf]</a> <a href="/bib/beprecise.bib" target="_blank">[bib]</a> <a href="/presentations/poster_EACL.pdf" target="_blank">[poster]</a> <a href="/presentations/Be_precise_or_fuzzy.pdf">[slides]</a> <a href="https://arxiv.org/pdf/1702.05270.pdf" target="_blank">[arxiv]</a>
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Marelli, M., Bernardi, R.</b></p>
@@ -170,7 +170,7 @@ when information about number is provided. </p></div>
 
 # "Look, Some Green Circles!": Learning to Quantify from Images
 
-## <em>ACL Workshop on Vision and Language 2016</em><br><br>[pdf] [bib] [data] [code] [poster]
+## <em>ACL Workshop on Vision and Language 2016</em><br><br>[pdf] [bib] [data] [code] [poster] [arxiv]
 
 <div style="text-align: justify">
 <p><b>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</b></p>
