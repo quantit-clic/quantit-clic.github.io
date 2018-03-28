@@ -170,7 +170,7 @@ when information about number is provided. </p></div>
 
 # "Look, Some Green Circles!": Learning to Quantify from Images
 
-## <em>ACL Workshop on Vision and Language 2016</em><br><br>[pdf] [bib] [data] [code] [poster] [arxiv]
+## <em>ACL Workshop on Vision and Language 2016</em><br><br><a href="https://aclweb.org/anthology/W/W16/W16-3211.pdf" target="_blank">[pdf]</a> <a href="/bib/look.bib" target="_blank">[bib]</a> <a href="/presentations/circles_poster2016.pdf" target="_blank">[poster]</a> <a href="/presentations/circles_slides2016.pdf" target="_blank">[slides]</a>
 
 <div style="text-align: justify">
 <p><b>Sorodoc, I., Lazaridou, A., Boleda, G., Herbelot, A., Pezzelle, S., Bernardi, R.</b></p>
