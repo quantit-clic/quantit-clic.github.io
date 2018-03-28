@@ -27,12 +27,34 @@ description: ''
         Universitat Pompeu Fabra </td>
 
         <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
-        Universitat Pompeu Fabra </td>
+        CIMeC, University of Trento </td>
 
         <td> <a href='http://disi.unitn.it/~bernardi/'>Raffaella Bernardi</a> <br>
         CIMeC, DISI, University of Trento</td>
     </tr>
 </table>
+
+<br>
+
+<table class='organizer-pics-four'>
+
+    <tr>
+        <td><a href='http://gboleda.utcompling.com/'>Gemma Boleda</a> <br> Universitat Pompeu Fabra </td>
+
+        <td><a href='http://www.ub.edu/cvub/marielladimiccoli/'>Mariella Dimiccoli</a> <br>
+        Universitat de Barcelona </td>
+
+        <td><a href='http://angelikilazaridou.github.io/'>Angeliki Lazaridou</a> <br>
+        Google DeepMind </td>
+
+        <td> <a href='http://www.marcomarelli.net/home'>Marco Marelli</a> <br>
+        University of Milan-Bicocca </td>
+    </tr>
+</table>
+
+
+
+
 
 <br>
 <br>
