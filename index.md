@@ -84,7 +84,7 @@ description: ''
 
 # Learning Quantification from Images: A Structured Neural Architecture
 
-## <em>Journal Natural Language Engineering 2018</em><br><br>[pdf] [bib] [data] [code] <a href="https://arxiv.org/pdf/1704.02923.pdf" target="_blank">[arxiv]</a>
+## <em>Journal Natural Language Engineering 2018</em><br><br><a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCD108133CB2030B785366DBF529A892/S1351324918000128a.pdf/learning_quantification_from_images_a_structured_neural_architecture.pdf" target="_blank">[pdf]</a> <a href="/bib/jnle.bib" target="_blank">[bib]</a> [data] [code] <a href="https://arxiv.org/pdf/1704.02923.pdf" target="_blank">[arxiv]</a>
 
 <div style="text-align: justify">
 <p><b>Sorodoc, I., Pezzelle, S., Herbelot, A., Dimiccoli, M., Bernardi, R.</b></p>
@@ -111,6 +111,23 @@ queries, which we hope will foster further research in this area.</p></div>
     <a href="">
     <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; height: 360px; margin-right: auto;" src="images/COCO-1.jpg"/></a>
     </p>
+</div>
+
+
+<br>
+
+<div style="text-align: justify">
+<code>
+@article{sorodoc_pezzelle_herbelot_dimiccoli_bernardi_2018,<br>
+&nbsp;&nbsp;author    = {SORODOC, I. and PEZZELLE, S. and HERBELOT, A. and DIMICCOLI, M. and BERNARDI, R.},<br>
+&nbsp;&nbsp;title     = {Learning quantification from images: A structured neural architecture},<br>
+&nbsp;&nbsp;DOI       = {10.1017/S1351324918000128},<br>
+&nbsp;&nbsp;journal   = {Natural Language Engineering}
+&nbsp;&nbsp;year      = {2018},<br>
+&nbsp;&nbsp;publisher = {Cambridge University Press},<br>
+&nbsp;&nbsp;pages     = {1–30}<br>
+}
+</code>
 </div>
 
 <br>
