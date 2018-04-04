@@ -119,13 +119,13 @@ queries, which we hope will foster further research in this area.</p></div>
 <div style="text-align: justify">
 <code>
 @article{sorodoc_pezzelle_herbelot_dimiccoli_bernardi_2018,<br>
-&nbsp;&nbsp;author    = {SORODOC, I. and PEZZELLE, S. and HERBELOT, A. and DIMICCOLI, M. and BERNARDI, R.},<br>
-&nbsp;&nbsp;title     = {Learning quantification from images: A structured neural architecture},<br>
-&nbsp;&nbsp;DOI       = {10.1017/S1351324918000128},<br>
-&nbsp;&nbsp;journal   = {Natural Language Engineering}
-&nbsp;&nbsp;year      = {2018},<br>
-&nbsp;&nbsp;publisher = {Cambridge University Press},<br>
-&nbsp;&nbsp;pages     = {1–30}<br>
+&nbsp;&nbsp;author={SORODOC, I. and PEZZELLE, S. and HERBELOT, A. and DIMICCOLI, M. and BERNARDI, R.},<br>
+&nbsp;&nbsp;title={Learning quantification from images: A structured neural architecture},<br>
+&nbsp;&nbsp;DOI={10.1017/S1351324918000128},<br>
+&nbsp;&nbsp;journal={Natural Language Engineering}<br>
+&nbsp;&nbsp;year={2018},<br>
+&nbsp;&nbsp;publisher={Cambridge University Press},<br>
+&nbsp;&nbsp;pages={1–30}<br>
 }
 </code>
 </div>
@@ -168,14 +168,14 @@ when information about number is provided. </p></div>
 <div style="text-align: justify">
 <code>
 @InProceedings{pezzelle2017,<br>
-&nbsp;&nbsp;author    = {Pezzelle, Sandro  and  Marelli, Marco  and  Bernardi, Raffaella},<br>
-&nbsp;&nbsp;title     = {Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision},<br>
-&nbsp;&nbsp;booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},<br>
-&nbsp;&nbsp;month     = {April},<br>
-&nbsp;&nbsp;year      = {2017},<br>
-&nbsp;&nbsp;address   = {Valencia, Spain},<br>
-&nbsp;&nbsp;publisher = {Association for Computational Linguistics},<br>
-&nbsp;&nbsp;pages     = {337--342}<br>
+&nbsp;&nbsp;author={Pezzelle, Sandro  and  Marelli, Marco  and  Bernardi, Raffaella},<br>
+&nbsp;&nbsp;title={Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision},<br>
+&nbsp;&nbsp;booktitle={Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},<br>
+&nbsp;&nbsp;month={April},<br>
+&nbsp;&nbsp;year={2017},<br>
+&nbsp;&nbsp;address={Valencia, Spain},<br>
+&nbsp;&nbsp;publisher={Association for Computational Linguistics},<br>
+&nbsp;&nbsp;pages={337--342}<br>
 }
 </code>
 </div>
