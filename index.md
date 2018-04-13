@@ -62,7 +62,7 @@ description: ''
 
 # Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
-## <em>NAACL-HLT 2018</em><br><br>[pdf] [bib] [data] [code] [slides] [arxiv]
+## <em>NAACL-HLT 2018</em><br><br>[pdf] [bib] [data] <a href="https://github.com/sandropezzelle/multitask-quant" target="_blank">[code]</a> [slides] [arxiv]
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Sorodoc, I., Bernardi, R.</b></p>
