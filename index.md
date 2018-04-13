@@ -3,7 +3,6 @@ layout: default
 description: ''
 ---
 
-# Team 
 
 <table class='organizer-pics-four'>
     <tr>
