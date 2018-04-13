@@ -96,11 +96,11 @@ queries, which we hope will foster further research in this area.</p></div>
 
 <div style="text-align: justify">
 <code>
-@article{sorodoc_pezzelle_herbelot_dimiccoli_bernardi_2018,<br>
-&nbsp;&nbsp;author={SORODOC, I. and PEZZELLE, S. and HERBELOT, A. and DIMICCOLI, M. and BERNARDI, R.},<br>
-&nbsp;&nbsp;title={Learning quantification from images: A structured neural architecture},<br>
+@article{sorodoc2018,<br>
+&nbsp;&nbsp;author={Sorodoc, Ionut and Pezzelle, Sandro and Herbelot, Aur{\'e}lie and Dimiccoli, Mariella and Bernardi, Raffaella},<br>
+&nbsp;&nbsp;title={{Learning quantification from images: A structured neural architecture}},<br>
 &nbsp;&nbsp;DOI={10.1017/S1351324918000128},<br>
-&nbsp;&nbsp;journal={Natural Language Engineering}<br>
+&nbsp;&nbsp;journal={Natural Language Engineering},<br>
 &nbsp;&nbsp;year={2018},<br>
 &nbsp;&nbsp;publisher={Cambridge University Press},<br>
 &nbsp;&nbsp;pages={1–30}<br>
