@@ -2,7 +2,8 @@
 layout: default
 description: ''
 ---
- 
+
+# Team 
 
 <table class='organizer-pics-four'>
     <tr>
@@ -24,7 +25,7 @@ description: ''
         <td><a href='http://sandropezzelle.github.io/'>Sandro Pezzelle</a> <br> CIMeC, University of Trento </td>
 
         <td><a href='https://www.upf.edu/web/amore/entry/-/-/153506/adscripcion/ionut-teodor-sorodoc'>Ionut-Teodor Sorodoc</a> <br>
-        Universitat Pompeu Fabra </td>
+        Universitat Pompeu Fabra, Barcelona </td>
 
         <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
         CIMeC, University of Trento </td>
@@ -33,28 +34,6 @@ description: ''
         CIMeC, DISI, University of Trento</td>
     </tr>
 </table>
-
-<br>
-
-<table class='organizer-pics-four'>
-
-    <tr>
-        <td><a href='http://gboleda.utcompling.com/'>Gemma Boleda</a> <br> Universitat Pompeu Fabra </td>
-
-        <td><a href='http://www.ub.edu/cvub/marielladimiccoli/'>Mariella Dimiccoli</a> <br>
-        Universitat de Barcelona </td>
-
-        <td><a href='http://angelikilazaridou.github.io/'>Angeliki Lazaridou</a> <br>
-        Google DeepMind </td>
-
-        <td> <a href='http://www.marcomarelli.net/home'>Marco Marelli</a> <br>
-        University of Milan-Bicocca </td>
-    </tr>
-</table>
-
-
-
-
 
 <br>
 <br>
@@ -223,5 +202,26 @@ evidence on the acquisition of quantifiers. </p></div>
 </div>
 
 <br>
+<br>
+<br>
+
+# Collaborators
+
+<table class='organizer-pics-four'>
+
+    <tr>
+        <td><a href='http://gboleda.utcompling.com/'>Gemma Boleda</a> <br> Universitat Pompeu Fabra, Barcelona</td>
+
+        <td><a href='http://www.ub.edu/cvub/marielladimiccoli/'>Mariella Dimiccoli</a> <br>
+        Universitat de Barcelona </td>
+
+        <td><a href='http://angelikilazaridou.github.io/'>Angeliki Lazaridou</a> <br>
+        Google DeepMind, London</td>
+
+        <td> <a href='http://www.marcomarelli.net/home'>Marco Marelli</a> <br>
+        University of Milan-Bicocca</td>
+    </tr>
+</table>
+
 <br>
 <br>
