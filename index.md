@@ -38,6 +38,33 @@ description: ''
 <br>
 <br>
 
+
+
+# <i>Some of</i> them can Be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers
+
+## <em>ACL 2018</em><br><br>[pdf] [bib] [data] <a href="https://github.com/sandropezzelle/fill-in-the-quant" target="_blank">[code]</a> [slides] [arxiv]
+
+<div style="text-align: justify">
+<p><b>Pezzelle, S., Steinert-Threlkeld, S., Bernardi, R., Szymanik, J.</b></p>
+<p>We study the role of linguistic context in predicting quantifiers (‘few’, ‘all’). We collect crowdsourced data from human participants and test various models in a local (single-sentence) and a global context (multi-sentence) condition. Models significantly out-perform humans in the former setting and are only slightly better in the latter. While human performance improves with more linguistic context (especially on proportional quantifiers), model performance suffers. Models are very effective in exploiting lexical and morpho-syntactic patterns; humans are better at genuinely understanding the meaning of the (global) context.</p></div>
+
+<br>
+
+<div id="proj-pic" style="text-align:center;">
+    <p>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; margin-bottom: 50px; height: 200px; margin-right: auto;" src="images/example2.png"/></a>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 300px; margin-left: auto;" src="images/overview-barplot.png"/></a>
+    </p>
+
+</div>
+
+<br>
+<br>
+<br>
+
+
 # Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
 ## <em>NAACL-HLT 2018</em><br><br>[pdf] [bib] [data] <a href="https://github.com/sandropezzelle/multitask-quant" target="_blank">[code]</a> [slides] [arxiv]
@@ -59,6 +86,7 @@ description: ''
 <br>
 <br>
 <br>
+
 
 # Learning Quantification from Images: A Structured Neural Architecture
 
@@ -220,6 +248,15 @@ evidence on the acquisition of quantifiers. </p></div>
         <td> <a href='http://www.marcomarelli.net/home'>Marco Marelli</a> <br>
         University of Milan-Bicocca</td>
     </tr>
+
+    <tr>
+
+        <td><a href='http://shane.st/'>Shane Steinert-Threlkeld</a> <br> University of Amsterdam</td>
+
+        <td><a href='http://www.jakubszymanik.com/'>Jakub Szymanik</a> <br>
+        University of Amsterdam </td>
+    </tr>
+
 </table>
 
 <br>
