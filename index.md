@@ -53,9 +53,9 @@ description: ''
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; margin-bottom: 50px; height: 200px; margin-right: auto;" src="images/example2.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; margin-bottom: 50px; height: 180px; margin-right: auto;" src="images/example2.png"/></a>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 300px; margin-left: auto;" src="images/overview-barplot.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 280px; margin-left: auto;" src="images/overview-barplot.png"/></a>
     </p>
 
 </div>
