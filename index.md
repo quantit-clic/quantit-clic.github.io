@@ -40,7 +40,7 @@ description: ''
 
 
 
-# <i>Some of</i> them can Be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers
+# Some of them can Be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers
 
 ## <em>ACL 2018</em><br><br>[pdf] [bib] [data] <a href="https://github.com/sandropezzelle/fill-in-the-quant" target="_blank">[code]</a> [slides] [arxiv]
 
@@ -55,7 +55,7 @@ description: ''
     <a href="">
     <img class="fblogo" border="0" style="display: inline-block; margin-left: 0px; margin-bottom: 50px; height: 200px; margin-right: auto;" src="images/example2.png"/></a>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 300px; margin-left: auto;" src="images/overview-barplot.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 200px; margin-left: auto;" src="images/overview-barplot.png"/></a>
     </p>
 
 </div>
