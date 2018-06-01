@@ -42,7 +42,7 @@ description: ''
 
 # Some of them can Be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers
 
-## <em>ACL 2018</em><br><br>[pdf] [bib] [data] <a href="https://github.com/sandropezzelle/fill-in-the-quant" target="_blank">[code]</a> [slides] [arxiv]
+## <em>ACL 2018</em><br><br>[pdf] [bib] <a href="https://github.com/sandropezzelle/fill-in-the-quant" target="_blank">[data&code]</a> [poster] [arxiv]
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Steinert-Threlkeld, S., Bernardi, R., Szymanik, J.</b></p>
@@ -67,7 +67,7 @@ description: ''
 
 # Comparatives, Quantifiers, Proportions: A Multi-Task Model for the Learning of Quantities from Vision
 
-## <em>NAACL-HLT 2018</em><br><br>[pdf] [bib] [data] <a href="https://github.com/sandropezzelle/multitask-quant" target="_blank">[code]</a> [slides] [arxiv]
+## <em>NAACL-HLT 2018</em><br><br><a href="http://aclweb.org/anthology/N18-1039" target="_blank">[pdf]</a> <a href="/bib/naacl2018.bib" target="_blank">[bib]</a> <a href="https://github.com/sandropezzelle/multitask-quant" target="_blank">[data&code]</a> [slides] <a href="/presentations/poster_caos.pdf" target="_blank">[poster]</a> <a href="https://arxiv.org/pdf/1804.05018.pdf" target="_blank">[arxiv]</a>
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Sorodoc, I., Bernardi, R.</b></p>
@@ -82,6 +82,25 @@ description: ''
     </p>
     
 </div>
+
+<br>
+
+
+<div style="text-align: justify">
+<code>
+@InProceedings{pezzelle2018,<br>
+&nbsp;&nbsp;author={Pezzelle, Sandro  and  Sorodoc, Ionut-Teodor  and  Bernardi, Raffaella},<br>
+&nbsp;&nbsp;title={Comparatives, Quantifiers, Proportions: a Multi-Task Model for the Learning of Quantities from Vision},<br>
+&nbsp;&nbsp;booktitle={Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},<br>
+&nbsp;&nbsp;year={2018},<br>
+&nbsp;&nbsp;publisher={Association for Computational Linguistics},<br>
+&nbsp;&nbsp;pages={419--430}<br>
+&nbsp;&nbsp;address={New Orleans, Louisiana},<br>
+&nbsp;&nbsp;url={http://aclweb.org/anthology/N18-1039}<br>
+}
+</code>
+</div>
+
 
 <br>
 <br>
@@ -126,7 +145,7 @@ queries, which we hope will foster further research in this area.</p></div>
 <code>
 @article{sorodoc2018,<br>
 &nbsp;&nbsp;author={Sorodoc, Ionut and Pezzelle, Sandro and Herbelot, Aur{\'e}lie and Dimiccoli, Mariella and Bernardi, Raffaella},<br>
-&nbsp;&nbsp;title={{Learning quantification from images: A structured neural architecture}},<br>
+&nbsp;&nbsp;title={Learning quantification from images: A structured neural architecture},<br>
 &nbsp;&nbsp;DOI={10.1017/S1351324918000128},<br>
 &nbsp;&nbsp;journal={Natural Language Engineering},<br>
 &nbsp;&nbsp;year={2018},<br>
