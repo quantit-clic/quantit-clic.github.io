@@ -16,9 +16,6 @@ description: ''
         <img class='im-speaker-pic' src='images/aurelie.jpg' alt='aurelie'>
         </td>
         <td>
-        <img class='im-speaker-pic' src='images/manuela.jpg' alt='manuela'>
-        </td>
-        <td>
         <img class='im-speaker-pic' src='images/raffa.jpg' alt='raffa'>
         </td>
     </tr>
@@ -30,9 +27,6 @@ description: ''
         Universitat Pompeu Fabra, Barcelona </td>
 
         <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
-        CIMeC, University of Trento </td>
-
-        <td><a href='https://webapps.unitn.it/du/it/Persona/PER0000598/Curriculum'>Manuela Piazza</a> <br>
         CIMeC, University of Trento </td>
 
         <td> <a href='http://disi.unitn.it/~bernardi/'>Raffaella Bernardi</a> <br>
@@ -340,6 +334,10 @@ evidence on the acquisition of quantifiers. </p></div>
 
         <td><a href='http://www.jakubszymanik.com/'>Jakub Szymanik</a> <br>
         University of Amsterdam </td>
+
+        <td><a href='https://webapps.unitn.it/du/it/Persona/PER0000598/Curriculum'>Manuela Piazza</a> <br>
+        CIMeC, University of Trento </td>
+
     </tr>
 
 </table>
