@@ -16,6 +16,9 @@ description: ''
         <img class='im-speaker-pic' src='images/aurelie.jpg' alt='aurelie'>
         </td>
         <td>
+        <img class='im-speaker-pic' src='images/manuela.jpg' alt='manuela'>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/raffa.jpg' alt='raffa'>
         </td>
     </tr>
@@ -43,7 +46,7 @@ description: ''
 
 # Probing the mental representation of quantifiers
 
-## <em>Cognition</em><br><br><a href="https://www.sciencedirect.com/science/article/pii/S0010027718302130" target="_blank">[pdf]</a> <a href="/bib/cognition.bib" target="_blank">[bib]</a>
+## <em>Cognition</em><br><br><a href="https://authors.elsevier.com/a/1Xf9s2Hx2bbco" target="_blank">[pdf]</a> <a href="/bib/cognition.bib" target="_blank">[bib]</a>
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Bernardi, R., Piazza, M.</b></p>
