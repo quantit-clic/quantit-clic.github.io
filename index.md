@@ -32,6 +32,9 @@ description: ''
         <td><a href='http://aurelieherbelot.net/'>Aurelie Herbelot</a> <br>
         CIMeC, University of Trento </td>
 
+        <td><a href='https://webapps.unitn.it/du/it/Persona/PER0000598/Curriculum'>Manuela Piazza</a> <br>
+        CIMeC, University of Trento </td>
+
         <td> <a href='http://disi.unitn.it/~bernardi/'>Raffaella Bernardi</a> <br>
         CIMeC, DISI, University of Trento</td>
     </tr>
