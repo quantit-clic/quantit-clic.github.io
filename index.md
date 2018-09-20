@@ -40,9 +40,51 @@ description: ''
 
 
 
+
+# Probing the mental representation of quantifiers
+
+## <em>Cognition</em><br><br><a href="https://www.sciencedirect.com/science/article/pii/S0010027718302130" target="_blank">[pdf]</a> <a href="/bib/cognition.bib" target="_blank">[bib]</a>
+
+<div style="text-align: justify">
+<p><b>Pezzelle, S., Bernardi, R., Piazza, M.</b></p>
+<p>In this study, we investigate the mental representation of non-numerical quantifiers (‘some’, ‘many’, ‘all’, etc.) by comparing their use in abstract and in grounded perceptual contexts. Using an approach similar to that used in the number domain, we test whether (and to what extent) such representation is constrained by the way we perceive the world through our senses. In two experiments, subjects either judged the similarity of quantifier pairs (presented as written words) or chose among a predetermined list of quantifiers the one that best described a visual image depicting a variable number of target and non-target items. The results were rather consistent across experiments, and indicated that quantifiers are mentally organized on an ordered but non-linear compressed scale where the quantifiers that imply small quantities appear more precisely differentiated across each other compared to those implying large quantities. This fits nicely with the idea that we construct our representations of such symbols mainly by mapping them to the representations of quantities that we derive from perception.</p></div>
+
+<br>
+
+<div id="proj-pic" style="text-align:center;">
+    <p>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/mountains-plot.jpg"/></a>
+    </p>
+    
+</div>
+
+<br>
+
+<div style="text-align: justify">
+<code>
+@article{pezzelle2018probing,<br>
+&nbsp;&nbsp;author={Pezzelle, Sandro and Bernardi, Raffaella and Piazza, Manuela},<br>
+&nbsp;&nbsp;title={Probing the mental representation of quantifiers},<br>
+&nbsp;&nbsp;journal={Cognition},<br>
+&nbsp;&nbsp;volume={181},<br>
+&nbsp;&nbsp;pages={117--126},<br>
+&nbsp;&nbsp;year={2018}<br>
+&nbsp;&nbsp;publisher={Elsevier},<br>
+}
+</code>
+</div>
+
+
+<br>
+<br>
+<br>
+
+
+
 # Some of them can Be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers
 
-## <em>ACL 2018</em><br><br>[pdf] [bib] <a href="https://github.com/sandropezzelle/fill-in-the-quant" target="_blank">[data&code]</a> [poster] [arxiv]
+## <em>ACL 2018</em><br><br><a href="http://aclweb.org/anthology/P18-2019" target="_blank">[pdf]</a> <a href="/bib/acl2018.bib" target="_blank">[bib]</a> <a href="https://github.com/sandropezzelle/fill-in-the-quant" target="_blank">[data&code]</a> <a href="/presentations/ACL_poster.pdf" target="_blank">[poster]</a> <a href="https://arxiv.org/pdf/1806.00354.pdf" target="_blank">[arxiv]</a>
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Steinert-Threlkeld, S., Bernardi, R., Szymanik, J.</b></p>
@@ -58,6 +100,24 @@ description: ''
     <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 280px; margin-left: auto;" src="images/overview-barplot.png"/></a>
     </p>
 
+</div>
+
+<br>
+
+
+<div style="text-align: justify">
+<code>
+@InProceedings{P18-2019,<br>
+&nbsp;&nbsp;author={Pezzelle, Sandro and Steinert-Threlkeld, Shane and Bernardi, Raffaella and Szymanik, Jakub},<br>
+&nbsp;&nbsp;title={Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers},<br>
+&nbsp;&nbsp;booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},<br>
+&nbsp;&nbsp;year={2018},<br>
+&nbsp;&nbsp;publisher={Association for Computational Linguistics},<br>
+&nbsp;&nbsp;pages={114--119}<br>
+&nbsp;&nbsp;address={Melbourne, Australia},<br>
+&nbsp;&nbsp;url={http://aclweb.org/anthology/P18-2019}<br>
+}
+</code>
 </div>
 
 <br>
