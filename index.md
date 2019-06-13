@@ -61,7 +61,7 @@ model profits from the prior knowledge and outperforms the auditory-only setting
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/cmcl_diagram.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 360px; margin-left: auto;" src="images/cmcl_diagram.png"/></a>
     </p>
     
 </div>
