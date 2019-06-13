@@ -61,7 +61,7 @@ model profits from the prior knowledge and outperforms the auditory-only setting
 <div id="proj-pic" style="text-align:center;">
     <p>
     <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/cmcl_diagram"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/cmcl_diagram.png"/></a>
     </p>
     
 </div>
@@ -106,18 +106,6 @@ model profits from the prior knowledge and outperforms the auditory-only setting
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Bernardi, R., Piazza, M.</b></p>
 <p>In this study, we investigate the mental representation of non-numerical quantifiers (‘some’, ‘many’, ‘all’, etc.) by comparing their use in abstract and in grounded perceptual contexts. Using an approach similar to that used in the number domain, we test whether (and to what extent) such representation is constrained by the way we perceive the world through our senses. In two experiments, subjects either judged the similarity of quantifier pairs (presented as written words) or chose among a predetermined list of quantifiers the one that best described a visual image depicting a variable number of target and non-target items. The results were rather consistent across experiments, and indicated that quantifiers are mentally organized on an ordered but non-linear compressed scale where the quantifiers that imply small quantities appear more precisely differentiated across each other compared to those implying large quantities. This fits nicely with the idea that we construct our representations of such symbols mainly by mapping them to the representations of quantities that we derive from perception.</p></div>
-
-
-<br>
-
-<div id="proj-pic" style="text-align:center;">
-    <p>
-    <a href="">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/mountains-plot.jpg"/></a>
-    </p>
-    
-</div>
-
 
 
 <br>
