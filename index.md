@@ -21,7 +21,7 @@ description: ''
     </tr>
 
     <tr>
-        <td><a href='http://sandropezzelle.github.io/'>Sandro Pezzelle</a> <br> CIMeC, University of Trento </td>
+        <td><a href='http://sandropezzelle.github.io/'>Sandro Pezzelle</a> <br> ILLC, University of Amsterdam </td>
 
         <td><a href='https://www.upf.edu/web/amore/entry/-/-/153506/adscripcion/ionut-teodor-sorodoc'>Ionut-Teodor Sorodoc</a> <br>
         Universitat Pompeu Fabra, Barcelona </td>
@@ -40,16 +40,74 @@ description: ''
 
 
 
+# Quantifiers in a Multimodal World: Hallucinating Vision with Language and Sound
 
-# Probing the mental representation of quantifiers
+## <em>NAACL-HLT Workshop on Cognitive Modeling and Computational Linguistics 2019</em><br><br><a href="https://www.aclweb.org/anthology/W19-2912" target="_blank">[pdf]</a> <a href="/bib/cmcl.bib" target="_blank">[bib]</a>
 
-## <em>Cognition</em><br><br><a href="https://authors.elsevier.com/a/1Xf9s2Hx2bbco" target="_blank">[pdf]</a> <a href="/bib/cognition.bib" target="_blank">[bib]</a>
+<div style="text-align: justify">
+<p><b>Testoni, A., Pezzelle, S., Bernardi, R.</b></p>
+<p>Inspired by the literature on multisensory integration, we develop a computational model to ground quantifiers in perception. The model
+learns to pick out of nine quantifiers (‘few’, ‘many’, ‘all’, etc.) the one that is more likely
+to describe the percent of animals in a visual auditory input containing both animals and artifacts. We show that relying on concurrent
+sensory inputs increases model performance on the quantification task. Moreover, we evaluate the model in a situation in which only
+the auditory modality is given, while the visual one is ‘hallucinated’ either from the auditory
+input itself or from a linguistic caption describing the quantity of entities in the auditory
+input. This way, the model exploits prior associations between modalities. We show that the
+model profits from the prior knowledge and outperforms the auditory-only setting.</p></div>
+
+
+<br>
+
+<div id="proj-pic" style="text-align:center;">
+    <p>
+    <a href="">
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 480px; margin-left: auto;" src="images/cmcl_diagram"/></a>
+    </p>
+    
+</div>
+
+
+
+<br>
+
+<div style="text-align: justify">
+<code>
+@inproceedings{testoni2019quantifiers,<br>
+&nbsp;&nbsp;author={Testoni, Alberto and Pezzelle, Sandro and Bernardi, Raffaella},<br>
+&nbsp;&nbsp;title={Quantifiers in a Multimodal World: Hallucinating Vision with Language and Sound},<br>
+&nbsp;&nbsp;booktitle={Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics},<br>
+&nbsp;&nbsp;pages={105--116},<br>
+&nbsp;&nbsp;year={2019}<br>
+}
+</code>
+</div>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Probing the Mental Representation of Quantifiers
+
+## <em>Cognition</em><br><br><a href="https://www.sciencedirect.com/science/article/pii/S0010027718302130" target="_blank">[pdf]</a> <a href="/bib/cognition.bib" target="_blank">[bib]</a>
 
 <div style="text-align: justify">
 <p><b>Pezzelle, S., Bernardi, R., Piazza, M.</b></p>
 <p>In this study, we investigate the mental representation of non-numerical quantifiers (‘some’, ‘many’, ‘all’, etc.) by comparing their use in abstract and in grounded perceptual contexts. Using an approach similar to that used in the number domain, we test whether (and to what extent) such representation is constrained by the way we perceive the world through our senses. In two experiments, subjects either judged the similarity of quantifier pairs (presented as written words) or chose among a predetermined list of quantifiers the one that best described a visual image depicting a variable number of target and non-target items. The results were rather consistent across experiments, and indicated that quantifiers are mentally organized on an ordered but non-linear compressed scale where the quantifiers that imply small quantities appear more precisely differentiated across each other compared to those implying large quantities. This fits nicely with the idea that we construct our representations of such symbols mainly by mapping them to the representations of quantities that we derive from perception.</p></div>
 
-<!---
+
 <br>
 
 <div id="proj-pic" style="text-align:center;">
@@ -59,7 +117,7 @@ description: ''
     </p>
     
 </div>
--->
+
 
 
 <br>
@@ -333,13 +391,18 @@ evidence on the acquisition of quantifiers. </p></div>
 
     <tr>
 
+        <td><a href='https://webapps.unitn.it/du/it/Persona/PER0000598/Curriculum'>Manuela Piazza</a> <br>
+        CIMeC, University of Trento </td>
+
         <td><a href='http://shane.st/'>Shane Steinert-Threlkeld</a> <br> University of Amsterdam</td>
 
         <td><a href='http://www.jakubszymanik.com/'>Jakub Szymanik</a> <br>
         University of Amsterdam </td>
 
-        <td><a href='https://webapps.unitn.it/du/it/Persona/PER0000598/Curriculum'>Manuela Piazza</a> <br>
+        <td><a href='https://scholar.google.com/citations?user=gGdWaH4AAAAJ&hl=it'>Alberto Testoni</a> <br>
         CIMeC, University of Trento </td>
+
+
 
     </tr>
 
